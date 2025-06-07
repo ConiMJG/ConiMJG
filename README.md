@@ -17,6 +17,7 @@
 ## 📌 Proyectos destacados
 
 - 🧩 [Cuerda Floja](https://github.com/ConiMJG/cuerdafloja): Puzzle de programación en C++ creado para el ramo Taller de Programación.
+- 📱 [Proyecto Móvil Flutter](https://github.com/ConiMJG/proyectomovil): Aplicación móvil desarrollada con Flutter como parte de un proyecto educativo.
 - 🎮 [Tec-Web-y-Móviles](https://github.com/ConiMJG/Tec-Web-y-Moviles): Repositorio académico que contiene apuntes, actividades, tareas y evaluaciones de la asignatura *Tecnologías Web y Móviles*. Incluye HTML, CSS, JavaScript, Dart y Flutter.
 
 ---
